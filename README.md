@@ -1,4 +1,3 @@
-<!-- Animated Typing Header -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2500&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Kinshuk+Saxena+%F0%9F%91%8B;Full-Stack+Web+Developer+%F0%9F%92%BB;Passionate+Coder+%F0%9F%A7%90;Problem+Solver+and+Innovator+%F0%9F%A4%96;Let's+Build+Something+Amazing+Together!+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
@@ -30,6 +29,9 @@
   </a>
   <a href="https://www.instagram.com/kinshuk._.saxena/">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://portfolio-frontend-mu-snowy.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-blue?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </p>
 
