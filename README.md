@@ -1,54 +1,141 @@
+<!-- Hero Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2500&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Kinshuk+Saxena+%F0%9F%91%8B;Full-Stack+Web+Developer+%F0%9F%92%BB;Passionate+Coder+%F0%9F%A7%90;Problem+Solver+and+Innovator+%F0%9F%A4%96;Let's+Build+Something+Amazing+Together!+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://github.com/kinshukkush/kinshukkush/blob/main/assets/banner.png" 
+       alt="Kinshuk Saxena | Full-Stack Web Developer" />
+</p>
+
+<!-- Typing Title -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2500&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&lines=Hi+there!+I'm+Kinshuk+Saxena+👋;Full-Stack+Web+Developer+%7C+Backend+Enthusiast;Building+Scalable+Apps+and+Clean+APIs+🚀">
 </p>
 
 ---
 
-### 👨‍💻 About Me
+## 📌 Quick Snapshot
 
-- 🎓 **Education**: B.Tech in Computer Science – Lovely Professional University
-- 🧠 **Problem Solving**: Solved 100+ problems on platforms like LeetCode, CodeChef
-- 🥇 **Achievements**: Top 15 Rank – All-India Hackathon Finalist
-- 📊 **Academics**: Dean’s Top 10% – Academic & Extracurricular Excellence
-- 💼 **Opportunities**: Open to roles in software engineering and web development
-- 📱 **Connect with me**: Reach out through any platforms below 👇
+- 🎓 **B.Tech in Computer Science** – Lovely Professional University  
+- 🧠 **100+ DSA problems** on LeetCode & CodeChef  
+- 🥇 **Top 15 – All India Hackathon Finalist**  
+- 📊 **Dean’s List – Top 10% (Academics + Extracurriculars)**  
+- 💼 Looking for **Full-Stack / Backend Developer roles**  
+- 🌱 Currently polishing **MERN, FastAPI, SQLAlchemy & scalable backend design**
 
 ---
 
-### 🌐 Connect with Me
+## 🌐 Connect With Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/kinshuk-saxena-/">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/kinshukkush">
-    <img src="https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="mailto:kinshuksaxena3@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.instagram.com/kinshuk._.saxena/">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" />
+    <img src="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   <a href="https://portfolio-frontend-mu-snowy.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-blue?style=for-the-badge&logo=vercel&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </p>
 
 ---
 
-### 📊 GitHub Stats
+## 🧰 Tech Arsenal
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kinshukkush&show_icons=true&theme=github_dark" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=kinshukkush&theme=github-dark&hide_border=false" alt="GitHub Streak Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kinshukkush&layout=compact&theme=github_dark" alt="Top Languages"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,postgres,fastapi,python,git,github,tailwind,vite,docker&theme=dark" />
 </p>
 
 ---
 
-### 🐍 Contribution Graph
+## 🧱 What I Like Building
+
+- ⚙️ **High-performance backends** with FastAPI, Node.js, Express  
+- 🛒 **MERN apps** – auth, dashboards, admin panels & e-commerce  
+- 📊 **Analytics & data pipelines** – PostgreSQL, SQLAlchemy, cron jobs  
+- 💬 **AI-assisted tools** – OpenAI + React dashboards  
+- 🎯 Clean code, good DX, and API-first design mindset
+
+---
+
+## 🚀 Featured Projects
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3>🛍️ MERN E-Commerce Platform</h3>
+      <p>Full-stack MERN app with authentication, product management, cart, orders, and admin dashboard.</p>
+      <ul>
+        <li>React + Vite + Tailwind</li>
+        <li>Node.js + Express + MongoDB</li>
+        <li>JWT auth, role-based access</li>
+      </ul>
+      <p>
+        🔗 <a href="https://github.com/kinshukkush/MERN-FRONTENT">Frontend Repo</a><br/>
+        🔗 <a href="https://github.com/kinshukkush/MERN-BACKEND">Backend Repo</a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3>🤖 AI-Assisted Operations Dashboard</h3>
+      <p>React + TypeScript dashboard powered by FastAPI and OpenAI API for real-time insights & automation.</p>
+      <ul>
+        <li>Task recommendations & action summaries</li>
+        <li>Anomaly explanation & metrics analysis</li>
+        <li>Modern, responsive UI with reusable components</li>
+      </ul>
+      <!-- Add repo link here when public -->
+    </td>
+  </tr>
+</table>
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats-kinshuk.vercel.app/api?username=kinshukkush&show_icons=true&theme=github_dark" />
+  
+  <img height="165" src="https://streak-stats.demolab.com?user=kinshukkush&theme=github-dark&hide_border=false" />
+</p>
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats-kinshuk.vercel.app/api/top-langs/?username=kinshukkush&layout=compact&theme=github_dark" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=kinshukkush&theme=onedark&margin-w=10&margin-h=10" />
+</p>
+
+
+---
+
+## 🐍 Contribution Snake
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/kinshukkush/kinshukkush/output/github-contribution-grid-snake.svg" alt="Contribution Graph"/>
+</p>
+
+---
+
+## ⚡ Activity Overview
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kinshukkush&theme=github-compact&hide_border=true" alt="Activity Graph" />
+</p>
+
+---
+
+## 🙌 Thanks for Stopping By!
+
+<p align="center">
+  <i>If you like my work, consider starring some repositories or reaching out for collaboration.</i><br/>
+  <i>Let’s build something amazing together. 🚀</i>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=kinshukkush&style=for-the-badge&color=blueviolet" alt="Profile views" />
 </p>
