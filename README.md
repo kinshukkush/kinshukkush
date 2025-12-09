@@ -92,24 +92,6 @@
   </tr>
 </table>
 
----
-
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats-kinshuk.vercel.app/api?username=kinshukkush&show_icons=true&theme=github_dark" />
-  
-  <img height="165" src="https://streak-stats.demolab.com?user=kinshukkush&theme=github-dark&hide_border=false" />
-</p>
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats-kinshuk.vercel.app/api/top-langs/?username=kinshukkush&layout=compact&theme=github_dark" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kinshukkush&theme=onedark&margin-w=10&margin-h=10" />
-</p>
-
 
 ---
 
