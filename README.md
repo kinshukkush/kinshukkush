@@ -81,11 +81,11 @@ const kinshuk = {
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=kinshukkush&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=kinshukkush&theme=tokyonight&hide_border=true&background=1a1b27&stroke=38bdae&ring=70a5fd&fire=bf91f3&currStreakLabel=bf91f3" />
 
-<img width="60%" src="https://github-readme-activity-graph.vercel.app/graph?username=kinshukkush&theme=tokyo-night&hide_border=true&area=true" />
+<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=kinshukkush&theme=tokyo-night&hide_border=true&area=true&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae" />
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kinshukkush&theme=tokyonight" width="80%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kinshukkush&theme=tokyonight" width="90%" />
 
 </div>
 
@@ -105,20 +105,11 @@ const kinshuk = {
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-
-## 🎮 My GitHub Activity Game
-
-<p align="center">
-  <img src="assets/space-shooter.gif" alt="GitHub Activity Space Shooter Game" />
-</p>
-
-
-
-<!-- ## 🐍 Contribution Activity
+## 🐍 Contribution Activity
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/kinshukkush/kinshukkush/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</div> -->
+</div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
